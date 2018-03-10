@@ -1,5 +1,8 @@
 # Epsilon | Annual Tech Fest
-[Department of Computer Science & Applications](https://www.facebook.com/official.dcsa)
+```
+Department of Computer Science & Applications
+```
+[Facebook](https://www.facebook.com/official.dcsa) | [Twitter](https://twitter.com/OfficialDCSA) | [LinkedIn](https://www.linkedin.com/school/13305516) | [GitHub](https://github.com/DCSA-PU)
 
 ## Contributor
 
